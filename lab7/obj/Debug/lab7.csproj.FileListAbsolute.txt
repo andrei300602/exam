@@ -1,0 +1,15 @@
+C:\Users\yaroslav\RiderProjects\lab7\lab7\bin\Debug\lab7.exe.config
+C:\Users\yaroslav\RiderProjects\lab7\lab7\bin\Debug\lab7.exe
+C:\Users\yaroslav\RiderProjects\lab7\lab7\bin\Debug\lab7.pdb
+C:\Users\yaroslav\RiderProjects\lab7\lab7\obj\Debug\lab7.csprojAssemblyReference.cache
+C:\Users\yaroslav\RiderProjects\lab7\lab7\obj\Debug\MainWindow.g.cs
+C:\Users\yaroslav\RiderProjects\lab7\lab7\obj\Debug\App.g.cs
+C:\Users\yaroslav\RiderProjects\lab7\lab7\obj\Debug\lab7_MarkupCompile.cache
+C:\Users\yaroslav\RiderProjects\lab7\lab7\obj\Debug\lab7_MarkupCompile.lref
+C:\Users\yaroslav\RiderProjects\lab7\lab7\obj\Debug\MainWindow.baml
+C:\Users\yaroslav\RiderProjects\lab7\lab7\obj\Debug\lab7.g.resources
+C:\Users\yaroslav\RiderProjects\lab7\lab7\obj\Debug\lab7.Properties.Resources.resources
+C:\Users\yaroslav\RiderProjects\lab7\lab7\obj\Debug\lab7.csproj.GenerateResource.cache
+C:\Users\yaroslav\RiderProjects\lab7\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+C:\Users\yaroslav\RiderProjects\lab7\lab7\obj\Debug\lab7.exe
+C:\Users\yaroslav\RiderProjects\lab7\lab7\obj\Debug\lab7.pdb
